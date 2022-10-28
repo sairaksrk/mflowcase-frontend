@@ -1,17 +1,15 @@
 import "./App.css";
 
-// import Header from "./components/Header/Header";
-// import Sidebar from "./components/Sidebar/Sidebar.js";
-// import Content from "./components/Content";
-// import Footer from "./components/Footer/Footer";
 
-import Login from "./components/Login";
+
 import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 
 // layouts
 
 import Admin from "./layouts/Admin.js";
 import User from "./layouts/User.js";
+
+import Login from "./views/auth/Login";
 
 import PageAddcase from "./components/PageAddcase";
 

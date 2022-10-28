@@ -1,6 +1,6 @@
 import React from "react";
 
-function Adduser() {
+function Register() {
   return (
     <>
       <div className="main-content flex flex-col flex-grow p-4">
@@ -137,4 +137,4 @@ function Adduser() {
   );
 }
 
-export default Adduser;
+export default Register;

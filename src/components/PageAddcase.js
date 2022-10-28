@@ -6,7 +6,7 @@ import React from "react";
 import Header from "../components/Header/Header";
 import Sidebar from "../components/Sidebar/Sidebar.js";
 import Footer from "../components/Footer/Footer";
-import Addcase from "../components/Addcase";
+import Addcase from "../views/admin/Addcase";
 
 export default function PageAddcase() {
   return (

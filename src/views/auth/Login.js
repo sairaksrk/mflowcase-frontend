@@ -1,6 +1,6 @@
 import React from "react";
 // import pic from "../assets/img/konklom.png";
-import logo from "../assets/img/Logokk.png";
+import logo from "../../assets/img/Logokk.png";
 
 function Login() {
   return (
